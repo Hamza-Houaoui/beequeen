@@ -1,0 +1,10 @@
+{
+  "appId": "com.beequeen.manager",
+  "appName": "Bee Queen Manager",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

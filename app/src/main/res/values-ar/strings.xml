@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TeleNot</string>
+    <string name="search_notes">ابحث عن ملاحظات...</string>
+    <string name="no_notes">لا توجد ملاحظات بعد.</string>
+    <string name="delete_note">حذف الملاحظة</string>
+    <string name="delete_note_confirm">هل أنت متأكد من حذف هذه الملاحظة؟</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="title_placeholder">العنوان...</string>
+    <string name="content_placeholder">ابدأ الكتابة...</string>
+    <string name="attachments">المرفقات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="theme">المظهر (Theme)</string>
+    <string name="dark_mode">الوضع الليلي (Dark Mode)</string>
+    <string name="light_mode">الوضع الفاتح (Light Mode)</string>
+    <string name="telegram_sync">مزامنة تليجرام</string>
+    <string name="bot_token">Bot Token</string>
+    <string name="chat_id_a">Chat ID A (الملاحظات)</string>
+    <string name="chat_id_b">Chat ID B (المعاملات)</string>
+    <string name="data_management">إدارة البيانات</string>
+    <string name="backup_to_telegram">نسخ احتياطي إلى تليجرام</string>
+    <string name="import_backup">استيراد النسخة من تليجرام</string>
+    <string name="clear_drawing">مسح</string>
+    <string name="save">حفظ</string>
+    <string name="record_audio">تسجيل صوت</string>
+    <string name="stop_recording">إيقاف التسجيل</string>
+    <string name="play">تشغيل</string>
+    <string name="stop">إيقاف</string>
+    <string name="reminder_set">تم تعيين التذكير</string>
+    <string name="reminder_removed">تم إلغاء التذكير</string>
+</resources>

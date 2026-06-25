@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TeleNot</string>
+    <string name="search_notes">Search notes...</string>
+    <string name="no_notes">No notes yet.</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_note_confirm">Are you sure you want to delete this note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_placeholder">Title...</string>
+    <string name="content_placeholder">Start typing...</string>
+    <string name="attachments">Attachments</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="telegram_sync">Telegram Sync</string>
+    <string name="bot_token">Bot Token</string>
+    <string name="chat_id_a">Chat ID A (Notes)</string>
+    <string name="chat_id_b">Chat ID B (Transactions)</string>
+    <string name="data_management">Data Management</string>
+    <string name="backup_to_telegram">Backup Database to Telegram</string>
+    <string name="import_backup">Import Backup from Telegram</string>
+    <string name="clear_drawing">Clear</string>
+    <string name="save">Save</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="reminder_set">Reminder Set</string>
+    <string name="reminder_removed">Reminder Removed</string>
+</resources>
