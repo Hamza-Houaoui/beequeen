@@ -52,4 +52,4 @@ sudo ip netns exec discord-vpn sudo -u HAMZA env \
 
 - ProtonVPN kill switch is active (pvpnksintrf0 interface) - host marked traffic bypasses it via custom table 100
 - The fwmark 0xdaf6ea44 is set by ProtonVPN - used for the kill switch exclusion
-- Script requires sudo password "1414"
+- Script requires sudo password (enter your password when prompted)

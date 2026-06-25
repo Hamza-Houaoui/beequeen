@@ -1,8 +1,8 @@
 import requests
 
 # البيانات الخاصة بك
-TOKEN = "vk1.a.PxfJzbXwZX0YO-8lGT3JXwsWWsLsvY2t40lCqJZF6rdwqnaK6kDh4ENmtYeljasZQS8qcKQFn3Z2ld0UE5hcsJ0OxBh5Lhqrr75KgmmFb_GE9XnqKwsDKn9rO88X9hmiE9rPskR3zcwIYikKLTqcocAsC8EGqj0I-980Md1KhX3lA_IvWejW6yDAVu3ofzTtMMHOGWLey4TwWrmBsfx3_A"
-GROUP_ID = 239491331  # رقم المجموعة الخاص بك
+TOKEN = "YOUR_VK_TOKEN_HERE"  # ضع التوكن الخاص بك هنا
+GROUP_ID = 0  # ضع رقم المجموعة الخاص بك هنا
 IMAGE_PATH = "test.jpg"  # مسار الصورة التي تريد رفعها
 API_VERSION = "5.131"
 
